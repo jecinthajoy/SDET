@@ -1,3 +1,7 @@
 This is my first SDET session!!!
 New change in this file for GIT.
+<<<<<<< HEAD
 Changing this file.
+=======
+Changing this file from github.
+>>>>>>> f802d0cdf1621d9330b440f10dd23585f37753d8
